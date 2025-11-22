@@ -35,4 +35,4 @@ Desenvolvido como parte de uma imersão em desenvolvimento web, este projeto tem
 3.  Divirta-se!
 
 ---
-Feito com 💜 e muitos pixels por [Seu Nome Aqui].
+Feito com 💜 e muitos pixels por João Marcos.
